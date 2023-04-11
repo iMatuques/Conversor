@@ -1,4 +1,4 @@
-<h1 align="center"> Conversor :coin: </h1>
+<h1 align="center"> Conversor</h1>
 
 <br>
 
